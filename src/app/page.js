@@ -1,20 +1,15 @@
 import Header from "./components/Header";
-import Navbar from "./components/Navbar";
+import Main from "./components/Main";
 import Section from "./components/Section";
+import Keskın from "./components/Keskın";
 import Footer from "./components/Footer";
 export default function Home() {
   return (
     <div>
       <Header />
-      <p>
-        Our blog to learn about new product <br /> features, the latest in tech,
-        and updates
-      </p>
-      <br />
-      <Navbar />
-      <br />
+      <Main title={"LİFE"} title-1="Tecnology:59" />
       <Section />
-      <br />
+      <Keskın />
       <Footer />
     </div>
   );

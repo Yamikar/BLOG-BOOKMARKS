@@ -3,7 +3,15 @@ import React from "react";
 function Header() {
   return (
     <div>
-      <div className="w-full h-10 bg-red-100"></div>
+      <div>
+        <ol>
+          <li>Home</li>
+          <li>About</li>
+          <li>Logo</li>
+          <li>Content</li>
+          <li>pages</li>
+        </ol>
+      </div>
     </div>
   );
 }
