@@ -8,7 +8,7 @@ function Section() {
         <div className="w-80 h-80 bg-purple-500 rounded"></div>
         <p>none</p>
         <h1 className="text-lg font-bold">
-          This Bread Pudding Will Give You All the Fall Feels
+          HTML CSS Hayatta kalma içeriğim nasıl kullanır ?
         </h1>
         <User />
       </div>
@@ -17,16 +17,14 @@ function Section() {
         <div className="w-80 h-80 bg-purple-500 rounded"></div>
         <p>none</p>
         <h1 className="text-lg font-bold">
-          This Bread Pudding Will Give You All the Fall Feels
+          Frontend Geliştirciler için en iyi sayfalar.
         </h1>
         <User />
       </div>
       <div className="flex flex-col items-start w-80">
         <div className="w-80 h-80 bg-purple-500 rounded"></div>
         <p>none</p>
-        <h1 className="text-lg font-bold">
-          This Bread Pudding Will Give You All the Fall Feels
-        </h1>
+        <h1 className="text-lg font-bold">SASS Projesi Nasıl Oluşturlur.</h1>
         <User />
       </div>
     </div>

@@ -5,11 +5,11 @@ function Header() {
     <div>
       <div>
         <ol>
-          <li>Home</li>
-          <li>About</li>
+          <li>Anasayfa</li>
+          <li>Hakkımda</li>
           <li>Logo</li>
-          <li>Content</li>
-          <li>pages</li>
+          <li>İletişim</li>
+          <li>Sayfalar</li>
         </ol>
       </div>
     </div>
